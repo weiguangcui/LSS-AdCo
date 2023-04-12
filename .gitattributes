@@ -1,2 +1,0 @@
-*.hdf5 filter=lfs diff=lfs merge=lfs -text
-simulation_snaps/ics_m100n256 filter=lfs diff=lfs merge=lfs -text
