@@ -3,3 +3,9 @@
 The .hdf5 are the raw simulation snapshot data
 
 outputlist.txt file containts the scale factor when the snapshots are output.
+
+# Python Packages
+
+You will need to install some python packages for the practices:
+
+h5py, numpy, scipy, matplotlib, nbodykit
